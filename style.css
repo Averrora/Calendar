@@ -1,0 +1,183 @@
+div
+{
+    text-align: center;
+    color: white;
+}
+
+body
+{
+    background: black;
+}
+
+.table_month>table>td
+{
+    border-collapse: collapse;
+}
+
+.table_days
+{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background: rgba(12, 22, 172, 0.5);
+}
+
+.table_days>table
+{
+    width: 300px;
+    height: 200px;
+}
+
+.name_month
+{
+    padding-bottom: 10px;
+}
+
+td>a
+{
+    color: white;
+}
+
+a
+{
+    text-decoration: none;  
+}
+
+.weekends
+{
+    background: red;
+}
+
+.holidays
+{
+    background: blue;
+}
+
+.jan1
+{
+    width: 80%;
+}
+
+.jan7
+{
+    width: 80%;
+}
+
+.feb14
+{
+    width: 80%;
+}
+
+.feb23
+{
+    width: 75%;
+}
+
+.march8
+{
+    width: 80%;
+}
+
+.may1
+{
+    width: 80%;
+}
+
+.may9
+{
+    width: 80%;
+}
+
+.jun1
+{
+    width: 30%;
+}
+
+.jun12
+{
+    width: 80%;
+}
+
+.jul9
+{
+    width: 80%;
+}
+
+.sep26
+{
+    width: 55%;
+}
+
+.nov4
+{
+    width: 80%;
+}
+
+
+h1
+{
+    text-align: center;
+    color: grey;
+}
+
+.dota1
+{
+    width: 80%;
+}
+
+.dota2
+{
+    width: 83%;
+}
+
+.dota3
+{
+    width: 70%;
+}
+
+.dota4
+{
+    width: 75%;
+}
+
+.dota5
+{
+    width: 75%;
+}
+
+.dota6
+{
+    width: 75%;
+}
+
+.dota7
+{
+    width: 75%;
+}
+
+.dota8
+{
+    width: 75%;
+}
+
+.dota9
+{
+    width: 75%;
+}
+
+.dota10
+{
+    width: 75%;
+}
+
+.dota11
+{
+    width: 75%;
+}
+
+.dota12
+{
+    width: 75%;
+}
